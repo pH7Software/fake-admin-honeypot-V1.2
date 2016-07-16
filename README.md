@@ -1,18 +1,16 @@
-# Honeypot Fake Admin Panel
+# Honeypot Fake Admin Panel - [pH7CMS](http://github.com/pH7Software/pH7-Social-Dating-CMS) Module
 
-_This is the latest version (1.1.8) of the Admin Honeypot Module_
+_This is the latest version (1.2.0) of the Admin Honeypot Module_
 
 This is an effective and powerful honeypot fake admin CP for the security site. Honeypot for the attackers! 
 
-This module is only compatible with [pH7CMS](http://ph7cms.com) (my [Open Source Social CMS](http://github.com/pH7Software/pH7-Social-Dating-CMS) :smiley:). 
-
-If you prefer, I released a __Standalone version__ or __Joomla version__ as well and available [here](http://github.com/pH-7/Honeypots).
+This module is only compatible with [pH7CMS](http://ph7cms.com). 
 
 
-Finally, if you wish, you can get more information concerning Honeypot techniques [here](http://en.wikipedia.org/wiki/Honeypot_(computing)), or on my French ebook available [here](http://01script.com/static/gifts/books/Guide-Pots-de-Miel-informatique.pdf).
+Finally, if you wish, you can get more information concerning Honeypot techniques [here](http://en.wikipedia.org/wiki/Honeypot_(computing)), or on my [French ebook](http://01script.com/static/gifts/books/Guide-Pots-de-Miel-informatique.pdf).
 
 
-P.S. pH7CMS already includes tracking analytics to have a trace of the attacker on your site.
+P.S. pH7CMS already includes tracking analytics to have a trace of the attacker on your website.
 
 
 ## Requirements
